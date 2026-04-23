@@ -58,6 +58,7 @@
 
 * **[Pareto Security](https://github.com/ParetoSecurity/pareto-mac)** – menu bar app that audits your Mac’s security settings (FileVault, firewall, auto-updates, screen lock, etc.) and shows what should be enabled or fixed to follow best practices.
 * **[Mergen](https://github.com/sametsazak/mergen)** - native macOS security auditing tool that checks your Mac against the CIS Apple macOS benchmark, covering areas like updates, firewall, sharing, privacy, authentication, and encryption. It comes as both a desktop app and a CLI, and can automatically remediate many failed checks and verify the fixes afterward.
+* **[Mac Monitor](https://github.com/Brandon7CC/mac-monitor)**
 
 #### Application control
 
