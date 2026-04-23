@@ -29,6 +29,7 @@
 ### Security
 
 * **[LuLu](https://github.com/objective-see/LuLu)** – free and open-source outbound firewall for macOS that lets you monitor and control which apps can access the network, helping block unwanted connections, trackers, and malware.
+* **[LittleSnitch](https://www.obdev.at/products/littlesnitch/index.html)** - macOS network monitor and application firewall that shows which apps are connecting to the Internet and lets you allow or block those connections. It provides real-time traffic visibility, per-app and per-domain rules, profiles, blocklists, and detailed connection monitoring to help control unwanted network activity, trackers, or suspicious connections.
 * **[Fortress](https://github.com/essandess/macOS-Fortress)** – firewall + privatizing proxy stack for blocking trackers, attackers, malware, adware, and spam. Uses PF, Squid, Privoxy, blocklists, and integrates with ClamAV for on-demand/on-access scanning.
 * **[Stronghold](https://github.com/alichtman/stronghold)** – terminal tool that quickly applies recommended macOS security and privacy settings, hardening the system with a single command.
 * **[ClamAV](https://github.com/Cisco-Talos/clamav)** – open-source antivirus engine used for scanning files and mail for malware (viruses, trojans, etc.), useful for on-demand scans or integrating into your own scripts and workflows.
