@@ -12,7 +12,12 @@
 
 **[Macos Secure Profiles](https://github.com/sambacha/macos-secure-profiles)**
 
-**[Article from Oficer CIA](https://x.com/officer_secret/status/1936486233393238028)**
+**Articles from Oficer CIA :**
+
+- [Crypto OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Switching to macOS? Here's Your Ultimate Security Guide!](https://x.com/officer_secret/status/1936486233393238028)
+- [Protecting Your Linux System Against DPRK (North Korean) Cyber Attacks](https://x.com/officer_secret/status/2047071481549701362)
+- [Safeguard Your OpSec with These Vital Tips](https://x.com/officer_secret/status/1940456818444325259)
 
 **[Article from Trail Of Bits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit?tab=t.0)**
 
@@ -42,6 +47,7 @@
 
 ### Security
 
+* **[Objective See](https://objective-see.org/tools.html)**
 * **[LuLu](https://github.com/objective-see/LuLu)** – free and open-source outbound firewall for macOS that lets you monitor and control which apps can access the network, helping block unwanted connections, trackers, and malware.
 * **[LittleSnitch](https://www.obdev.at/products/littlesnitch/index.html)** - macOS network monitor and application firewall that shows which apps are connecting to the Internet and lets you allow or block those connections. It provides real-time traffic visibility, per-app and per-domain rules, profiles, blocklists, and detailed connection monitoring to help control unwanted network activity, trackers, or suspicious connections.
 * **[Fortress](https://github.com/essandess/macOS-Fortress)** – firewall + privatizing proxy stack for blocking trackers, attackers, malware, adware, and spam. Uses PF, Squid, Privoxy, blocklists, and integrates with ClamAV for on-demand/on-access scanning.
