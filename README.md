@@ -4,6 +4,7 @@
 
 ---
 
+**[Article from Oficer CIA]([https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit?tab=t.0](https://x.com/officer_secret/status/1936486233393238028))**
 **[Article from Trail Of Bits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit?tab=t.0)**
 
 ---
