@@ -4,6 +4,10 @@
 
 ---
 
+**[Article from Trail Of Bits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit?tab=t.0)**
+
+---
+
 ## Content list
 
 (roughly ordered from most critical security layers to more general utilities)
